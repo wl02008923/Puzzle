@@ -1,0 +1,25 @@
+.banner{
+	width: 100%;
+	background-color: white;
+	text-align: center;
+	height:40em;
+	overflow: hidden;
+}
+.banner>img{
+	width: 80%;
+	height:40em;
+	margin-right: auto;
+	margin-left: auto;
+}
+.row{
+	background-color: rgba(255,255,255,0.7);
+	border-radius: 10px 10px 10px 10px;
+	height: 6em;
+}
+.signin{
+	text-align: center;
+}
+.signin>form>input,.signin>form>button{
+	margin-top: 1em;
+	height: 4em;
+}
